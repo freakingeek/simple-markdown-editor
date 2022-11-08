@@ -9,6 +9,10 @@
   font-family: 'Inter', sans-serif;
 }
 
+code {
+  font-family: 'monospace' !important;
+}
+
 a {
   text-decoration: none;
 }
